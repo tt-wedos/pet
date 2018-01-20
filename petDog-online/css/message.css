@@ -1,0 +1,52 @@
+/*中间内容开始*/
+
+.out-variety-content{
+	width: 100%;
+	overflow: hidden;
+	background: #FFFFFF;
+}
+.variety-content{
+	width: 1000px;
+	height: 600px;
+	margin: 0 auto;
+	text-align: left;
+	background: #FFFFFF;
+	padding-left: 20px;
+}
+form{
+	width: 100%;
+	overflow: hidden;
+	min-width: 320px;
+	margin: 20px auto;
+	font-size: 20px;
+}
+input{
+	width: 220px;
+	height: 30px;
+	margin: 15px 0;
+}
+label{
+	float: left;
+	margin-right: 140px;
+	line-height: 64px;
+}
+.submit{
+	width: 91%;
+    max-width: 219px;
+    height: 44px;
+    float: left;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font: 14px/44px 微软雅黑;
+    background: url(img/black_middle.png) 0px center repeat-x rgb(142, 142, 142);
+}
+fieldset{
+	padding: 30px 50px 0;
+}
+.text{
+	float: left;
+	width: 60px;
+	height: 80px;
+	line-height: 80px;
+}
+/*中间内容结束*/

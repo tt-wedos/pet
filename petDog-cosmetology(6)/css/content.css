@@ -1,0 +1,88 @@
+/*中间内容start*/
+.cosmetology-content{
+	width:100%;
+	height:725px;
+	margin:0 auto;
+}
+.picture{
+	width:1903px;
+	height:300px;
+	margin:0 auto;
+}
+.picture img{
+	display:block;
+	width:100%;
+	height:100%;
+}
+.nursing{
+	width:100%;
+	height:425px;
+	background:rgb(248,248,248);
+}
+.nursing-content{
+	width:1000px;
+	height:400px;
+	background:#ffffff;
+	margin:0 auto;
+	/*margin-top:15px;*/
+	display:flex;
+}
+.nursing-type{
+	display:flex;
+    flex:3;
+}
+.nursing-text{
+	display:flex;
+	flex:2;
+}
+.nursing-type-list{
+	flex:1;
+	margin:5px;
+}
+.nursing-type-list li{
+	float:left;
+	margin:15px;
+	margin-bottom:0px;
+	width:250px;
+	height:180px;
+	cursor:pointer;
+}
+.nursing-type-list li img{
+	width:100%;	
+}
+.nursing-type-list li p{
+	width:100%;
+	height:30px;
+	text-align:center;
+	line-height:30px;
+	margin:0 auto;
+	color:rgb(102,102,102);
+}
+.nursing-text-list{
+      flex:1;
+      margin:5px;
+      flex-direction:column;
+}
+.nursing-text-list li{
+	 float:left;
+	 border-bottom:1px dashed rgb(219,219,219);
+	 width:100%;
+	 height:39px;
+	 line-height:39px;
+}
+.nursing-text-list a{
+	text-decoration:none;
+	color:rgb(51,51,51);
+	font-size:14px;
+
+}
+.nursing-text-list a:hover{
+	color: rgb(255,157,11);
+}
+.nursing-text-list span{
+	display:block;
+	float:right;
+	width:80px;
+	margin-right:5px;
+}
+/*中间内容end*/

@@ -1,0 +1,53 @@
+  
+  /*css样式：中间部分 start*/
+  *{padding:0px;margin:0px;font-family: "微软雅黑";}
+  a{text-decoration:none;}
+  
+  .articles-content{width:100%;overflow: hidden;background: #fff;}
+  
+  .box{width:1444px;height:798px;background:#f8f8f8;margin:0 auto;opacity: 1;}
+  
+  .box .box1,.box .box2{width:1000px;margin: 0px auto;background: #fff;overflow: hidden;}
+  
+  .box .box1>a>img,.box .box2>a>img{width:235px;height:235px;margin-right:8px;margin-top:16px;}
+ 
+  .div1, .div2, .div3, .div4, .div5,.div6, .div7, .div8{width:235px;height:110px;float:left;}
+  
+  .div1>a:first-child,.div2>a:first-child,.div3>a:first-child,
+  .div4>a:first-child,.div5>a:first-child,.div6>a:first-child,.div7>a,
+  .div8>a:first-child{
+  	
+  	      font-size: 16px;
+  	      color:#756041;
+  	      margin-left: 98px;
+  	      
+  	}
+  
+  .div1>span,.div2>span,.div3>span,.div4>span,.div5>span,
+  .div6>span,.div7>span,.div8>span{
+  	      
+  	      font-size: 20px;
+  	      color:#d38200;
+  	      margin-top: 60px;
+  	      margin-left: 98px;
+  	      
+  	}
+  
+  .div1>a:nth-of-type(2),.div2>a:nth-of-type(2),.div3>a:nth-of-type(2),.div4>a:nth-of-type(2),
+  .div5>a:nth-of-type(2),.div6>a:nth-of-type(2),.div7>a:nth-of-type(2),
+  .div8>a:nth-of-type(2){
+  	      
+  	      font-size: 18px;
+  	      color:white;
+  	      border:1px solid #D38200;
+  	      border-radius: 4px;
+  	      background: #d38200;
+  	      width:188px;
+  	      height:33px;
+  	      display: block;
+  	      margin-top:12px;
+  	      margin-right: 50px;
+  	      margin-left: 31px;
+  	      text-align: center;
+  	      line-height: 33px;
+  	}

@@ -1,0 +1,103 @@
+/*中间内容start*/
+/*中间大图start*/
+.clearfloat{
+	clear:both;
+}
+.content{
+	width:100%;
+	background:#f8f8f8;
+}
+.content .banner{
+	width:1905px;
+	height:302px;
+	margin:0 auto;
+	background: url(../img/bh.png) no-repeat 100% 100%;
+	background-position: -5px -1px;
+}
+.content .centerContainer{
+	width:1020px;
+	height:660px;
+	margin:0 auto;
+}
+/*中间大图end*/
+
+/*中间文章 start*/
+.center_art{
+	width:1000px;
+	height:360px;
+	margin:10px auto 5px auto;
+	background: #fff;
+}
+.beautyimg{
+	float:left;
+	width:490px;
+}
+.beautyimg img{
+	margin:10px 0 0 5px;
+}
+.beauty_cont{
+	float:left;
+	width:510px;
+}
+.beautyul{
+	width:490px;
+	margin:20px 5px 0 10px;
+}
+.beautyul li{
+	height:40px;
+	border-bottom:1px dashed #ccc;
+	line-height: 40px;	
+	padding-left:5px;
+}
+.beautyul li:nth-child(8){
+	border:none;
+}
+.beautyul li a{
+	font-size:14px;
+	color:#666;
+	text-decoration:none;
+}
+.beautyul li a:hover{
+	color:#ff9d0b;
+}
+.beautyul li a span{
+	float:right;
+}
+/*中间文章 end*/
+
+/*中间下面轮播图 start*/
+.slider{
+	width:1000px;
+	height:270px;
+	background: #fff;
+	margin:10px auto;
+}
+.slider .be_title{
+	line-height: 40px;
+	text-align:left;
+	padding-left:5px;
+	font-size:18px;
+}
+.slider .slider_box{
+	width:985px;
+	height:210px;
+	
+	margin:5px 10px 0 5px;
+	position:relative;
+	overflow:hidden;
+}
+.slider .slider_box .slider_list{
+	width:3745px;
+	position:absolute;
+	top:0;
+	left:0px;
+}
+.slider .slider_list li{
+	float:left;
+	margin-right:80px;
+	padding:0;
+}
+.slider_list img{
+	width:335px;
+	top:205px;
+}

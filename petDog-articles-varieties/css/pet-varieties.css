@@ -1,0 +1,40 @@
+
+  /*css样式 中间部分 start*/
+  *{padding:0px;margin:0px;font-family: "微软雅黑";}
+  
+  a{text-decoration:none;}
+  
+  .variety-content{width:100%;overflow: hidden;background: #fff;}
+  
+  .box-fa{width:1444px;height:944px;background:#f8f8f8;margin:0 auto;opacity:1;}
+  
+  .box-fa .box1-son,
+  .box-fa .box2-son,
+  .box-fa .box3-son{
+												  	
+						width:1000px;height:285px;margin: 0px auto;
+						background: #fff;overflow: hidden;position:relative;
+					}
+  
+  .box-fa .box1-son,.box-fa .box3-son{margin-top:18px;}
+  
+  .box-fa .box2-son{margin-top:7px;}
+  
+  .box1-son>h3,.box2-son>h3,.box3-son>h3{font-size: 18px;color:#333;font-weight: normal;margin-top:5px;text-indent: 0.2em;}
+  
+  .box1-son>a,.box2-son>a,.box3-son>a{display: block;float:left;margin-top:20px;margin-left:5px;margin-right: 6px;}
+  
+  .box1-son>a>img,.box2-son>a>img,.box3>a>img{width:235px;height:186px;}
+  
+  .box1-son>span,.box2-son>span,.box3-son>span{display: block;font-size:14px;color:#333;position:absolute;}
+  
+  .box1-son>span:first-of-type,.box2-son>span:first-of-type,.box3-son>span:first-of-type{bottom:12px;left:100px;}
+	
+	.box1-son>span:nth-of-type(2),.box2-son>span:nth-of-type(2),.box3-son>span:nth-of-type(2){bottom:12px;left:348px;}											  	
+	
+	.box1-son>span:nth-of-type(3),.box2-son>span:nth-of-type(3),.box3-son>span:nth-of-type(3){bottom:12px;left:600px;}											  	
+	
+	.box1-son>span:nth-of-type(4),.box2-son>span:nth-of-type(4),.box3-son>span:nth-of-type(4){bottom:12px;left:850px;}											  
+												  
+  
+   
